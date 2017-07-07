@@ -1,4 +1,4 @@
-# hello-world - electron app
+# hello-world-electron
 
 ### Install
 ```
